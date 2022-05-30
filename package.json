@@ -1,0 +1,20 @@
+{
+  "name": "require3",
+  "version": "2.2.0",
+  "description": "require3",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/require3.git"
+  },
+  "keywords": [
+    "require3"
+  ],
+  "author": "zhennann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhennann/require3/issues"
+  },
+  "homepage": "https://github.com/zhennann/require3#readme",
+  "dependencies": {}
+}
